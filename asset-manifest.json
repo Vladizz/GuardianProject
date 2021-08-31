@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GuardianProject/static/css/main.a617e044.chunk.css",
+    "main.js": "/GuardianProject/static/js/main.49c46b23.chunk.js",
+    "main.js.map": "/GuardianProject/static/js/main.49c46b23.chunk.js.map",
+    "runtime-main.js": "/GuardianProject/static/js/runtime-main.50cbf9d4.js",
+    "runtime-main.js.map": "/GuardianProject/static/js/runtime-main.50cbf9d4.js.map",
+    "static/js/2.e518b5e7.chunk.js": "/GuardianProject/static/js/2.e518b5e7.chunk.js",
+    "static/js/2.e518b5e7.chunk.js.map": "/GuardianProject/static/js/2.e518b5e7.chunk.js.map",
+    "static/js/3.65187c3f.chunk.js": "/GuardianProject/static/js/3.65187c3f.chunk.js",
+    "static/js/3.65187c3f.chunk.js.map": "/GuardianProject/static/js/3.65187c3f.chunk.js.map",
+    "index.html": "/GuardianProject/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/GuardianProject/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e518b5e7.chunk.js.LICENSE.txt": "/GuardianProject/static/js/2.e518b5e7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/GuardianProject/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50cbf9d4.js",
+    "static/js/2.e518b5e7.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.49c46b23.chunk.js"
+  ]
+}
