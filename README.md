@@ -1,4 +1,6 @@
-git clone 
-cd frontend-challenge
+Для старта
+
+git clone https://github.com/Vladizz/GuardianProject.git
+cd GuardianProject
 npm i
-npm run build
+npm start
