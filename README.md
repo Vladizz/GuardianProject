@@ -1,4 +1,4 @@
-Для старта
+Для старта:
 
 git clone git@github.com:Vladizz/GuardianProject.git 
 
