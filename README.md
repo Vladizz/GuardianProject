@@ -4,7 +4,7 @@ git clone git@github.com:Vladizz/GuardianProject.git
 
 cd GuardianProject
 
-npm i
+npm install
 
 npm start
 
